@@ -2,9 +2,9 @@
   "name": "sendmail",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "nodemon ./src/app.js localhost 8080"
+    "dev": "nodemon ./src/index.js localhost 8080"
   },
   "keywords": [],
   "author": "",
